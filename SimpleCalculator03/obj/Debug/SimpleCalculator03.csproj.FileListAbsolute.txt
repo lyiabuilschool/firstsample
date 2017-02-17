@@ -1,0 +1,1 @@
+C:\build-school sample\MyFirstWinForm\SimpleCalculator03\bin\Debug\SimpleCalculator03.exe.config

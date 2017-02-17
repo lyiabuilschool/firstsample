@@ -1,0 +1,8 @@
+C:\build-school sample\MyFirstWinForm\SimpleCalculator02\bin\Debug\SimpleCalculator02.exe.config
+C:\build-school sample\MyFirstWinForm\SimpleCalculator02\bin\Debug\SimpleCalculator02.exe
+C:\build-school sample\MyFirstWinForm\SimpleCalculator02\bin\Debug\SimpleCalculator02.pdb
+C:\build-school sample\MyFirstWinForm\SimpleCalculator02\obj\Debug\SimpleCalculator02.csprojResolveAssemblyReference.cache
+C:\build-school sample\MyFirstWinForm\SimpleCalculator02\obj\Debug\SimpleCalculator02.Properties.Resources.resources
+C:\build-school sample\MyFirstWinForm\SimpleCalculator02\obj\Debug\SimpleCalculator02.csproj.GenerateResource.Cache
+C:\build-school sample\MyFirstWinForm\SimpleCalculator02\obj\Debug\SimpleCalculator02.exe
+C:\build-school sample\MyFirstWinForm\SimpleCalculator02\obj\Debug\SimpleCalculator02.pdb
